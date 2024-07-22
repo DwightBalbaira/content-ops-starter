@@ -1,5 +1,5 @@
 ---
-title: Careers
+title: Contact Us
 slug: careers
 sections:
   - title:
