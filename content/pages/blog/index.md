@@ -88,7 +88,7 @@ topSections:
           healthier living environment.
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/pexels-tirachard-kumtanom-112571-887822.jpg
           altText: Chunky Cotton Knit Throw
           elementId: ''
           styles:
