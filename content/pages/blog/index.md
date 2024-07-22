@@ -39,7 +39,7 @@ topSections:
           elevate your business operations.
         image:
           type: ImageBlock
-          url: /images/pexels-hikaique-65438.jpg
+          url: /images/pexels-pixabay-273209.jpg
           altText: Faux Fur Throw
           elementId: >-
             .image-container {      overflow: hidden; /* This is important for
