@@ -193,7 +193,7 @@ sections:
     type: ImageGallerySection
   - title:
       text: Build a Stronger Future with TraverCon
-      color: text-primary
+      color: text-light
       styles:
         self:
           textAlign: center
@@ -206,12 +206,12 @@ sections:
       TraverCon and invest in a stronger future.
     badge:
       label: Key Benefits
-      color: text-primary
+      color: text-light
       styles:
         self:
           textAlign: center
       type: Badge
-    colors: bg-neutral-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         flexDirection: col
