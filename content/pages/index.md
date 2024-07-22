@@ -243,7 +243,7 @@ sections:
           highly recommend them to anyone looking for a reliable and skilled
           construction partner..”
         tagline: ''
-        subtitle: 'Maria Walters, Company'
+        subtitle: Maria Aveh
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
