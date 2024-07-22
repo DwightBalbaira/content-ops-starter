@@ -77,7 +77,7 @@ sections:
           type: ImageBlock
           altText: Lightning bolt symbol on red background
           elementId: ''
-          url: /images/floor-plan.png
+          url: /images/engineering.png
           styles:
             self:
               borderRadius: x-large
