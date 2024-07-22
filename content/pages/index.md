@@ -225,7 +225,7 @@ sections:
       - type: FeaturedItem
         title: Maria Aveh
         tagline: ''
-        subtitle: 'Maria Walters, Company'
+        subtitle: ''
         text: >+
           "We recently partnered with TraverCon to build our new headquarters,
           and it was a fantastic experience. Their team was incredibly
