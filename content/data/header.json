@@ -16,7 +16,7 @@
     "primaryLinks": [
         {
             "label": "About Us",
-            "altText": "Blog",
+            "altText": "About Us",
             "url": "/blog",
             "icon": "arrowRight",
             "iconPosition": "right",
