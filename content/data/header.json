@@ -38,7 +38,7 @@
             "altText": "",
             "url": "/contact-us",
             "showIcon": true,
-            "icon": "arrowLeft",
+            "icon": "send",
             "iconPosition": "left",
             "style": "secondary",
             "elementId": ""
