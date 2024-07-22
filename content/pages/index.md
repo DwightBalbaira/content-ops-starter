@@ -55,10 +55,10 @@ sections:
       - type: FeaturedItem
         title: Unwavering Strength and Quality
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Build with Confidence. Choose TraverCon for enduring structures and
+          exceptional craftsmanship.
+
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
