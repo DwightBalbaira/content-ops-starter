@@ -40,6 +40,7 @@ topSections:
               - pl-6
               - pr-6
             borderRadius: large
+            borderWidth: 2
       - type: PricingPlan
         title: Professional
         price: $99
