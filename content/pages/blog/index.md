@@ -123,7 +123,12 @@ topSections:
     items:
       - type: FeaturedItem
         title: Commercial Construction
-        subtitle: $ 88 – $ 176
+        subtitle: >-
+          TraverCon builds exceptional commercial spaces that cater to your
+          specific needs and brand identity.  Our expertise covers office
+          buildings, retail stores, restaurants, and more. We ensure a
+          functional, efficient, and aesthetically pleasing environment to
+          elevate your business operations.
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg
