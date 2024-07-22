@@ -233,15 +233,7 @@ sections:
     title: null
     subtitle: What our customers say about us
     items:
-      - title: >-
-          “We recently partnered with TraverCon to build our new headquarters,
-          and it was a fantastic experience. Their team was incredibly
-          professional, always keeping us informed throughout the process. The
-          quality of construction is exceptional, and we're thrilled with the
-          final result.  TraverCon truly helped us build a space that reflects
-          our company's vision and fosters a positive work environment. We
-          highly recommend them to anyone looking for a reliable and skilled
-          construction partner..”
+      - title: ''
         tagline: ''
         subtitle: Maria Aveh
         text: ''
