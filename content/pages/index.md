@@ -220,7 +220,7 @@ sections:
         textAlign: center
     type: GenericSection
   - type: CarouselSection
-    subtitle: This is a subtitle
+    subtitle: Testimonials
     items:
       - type: FeaturedItem
         title: Maria Aveh
