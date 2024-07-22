@@ -33,11 +33,15 @@
             "type": "Link"
         },
         {
+            "type": "Button",
             "label": "Contact Us",
-            "altText": "Contact Us",
-            "links": [],
-            "labelStyle": "primary",
-            "type": "SubNav"
+            "altText": "",
+            "url": "/contact-us",
+            "showIcon": true,
+            "icon": "send",
+            "iconPosition": "left",
+            "style": "secondary",
+            "elementId": ""
         }
     ],
     "secondaryLinks": [],
