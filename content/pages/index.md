@@ -88,7 +88,7 @@ sections:
           meticulous planning and flawless execution.
 
         image:
-          url: /images/icon2.svg
+          url: /images/business.png
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
