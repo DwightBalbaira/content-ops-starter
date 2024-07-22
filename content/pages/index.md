@@ -209,11 +209,12 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: Expert Construction for Lasting Results
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+      TraverCon builds more than structures, we build legacies.  Our commitment
+      to quality materials, skilled craftsmanship, and innovative solutions
+      ensures your project endures for generations to come.  Partner with
+      TraverCon and invest in a stronger future.
+
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
