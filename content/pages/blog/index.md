@@ -79,7 +79,13 @@ topSections:
         colors: bg-light-fg-dark
       - type: FeaturedItem
         title: Sustainable Building
-        subtitle: $117
+        subtitle: >-
+          TraverCon is committed to environmentally responsible construction
+          practices. We integrate sustainable materials, energy-efficient
+          technologies, and responsible waste management into our projects.  By
+          partnering with TraverCon, you can build a beautiful and functional
+          space while minimizing your environmental impact and creating a
+          healthier living environment.
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg
