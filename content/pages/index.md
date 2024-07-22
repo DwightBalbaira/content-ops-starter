@@ -224,7 +224,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Maria Aveh
-        tagline: Testimonial 1
+        tagline: ''
         subtitle: 'Maria Walters, Company'
         text: >+
           "We recently partnered with TraverCon to build our new headquarters,
