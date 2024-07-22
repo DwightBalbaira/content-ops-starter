@@ -25,8 +25,7 @@ topSections:
           functional, efficient, and aesthetically pleasing environment to
           elevate your business operations.
 
-        features:
-          - Feature three
+        features: []
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
