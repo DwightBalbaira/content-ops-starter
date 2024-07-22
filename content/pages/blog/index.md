@@ -26,7 +26,6 @@ topSections:
           elevate your business operations.
 
         features:
-          - Feature two
           - Feature three
           - Feature four
         image:
