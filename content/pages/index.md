@@ -199,13 +199,11 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: Expert Construction for Lasting Results
-    text: >+
-      \<div style="text-align: center">TraverCon builds more than structures, we
-      build legacies.  Our commitment to quality materials, skilled
-      craftsmanship, and innovative solutions ensures your project endures for
-      generations to come.  Partner with TraverCon and invest in a stronger
-      future.\</div>
-
+    text: >
+      TraverCon builds more than structures, we build legacies.  Our commitment
+      to quality materials, skilled craftsmanship, and innovative solutions
+      ensures your project endures for generations to come.  Partner with
+      TraverCon and invest in a stronger future.
     badge:
       label: Key Benefits
       color: text-primary
