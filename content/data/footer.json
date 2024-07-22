@@ -27,9 +27,9 @@
             },
             {
                 "type": "Link",
-                "label": "Contact Us",
+                "label": "Blog",
                 "altText": "",
-                "url": "/contact-us",
+                "url": "/blog",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
@@ -38,9 +38,9 @@
             },
             {
                 "type": "Link",
-                "label": "Blog",
+                "label": "Contact Us",
                 "altText": "",
-                "url": "/blog",
+                "url": "/contact-us",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
