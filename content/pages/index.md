@@ -246,7 +246,7 @@ sections:
           highly recommend them to anyone looking for a reliable and skilled
           construction partner..”
         image:
-          url: /images/pexels-shtefutsa-20264868.jpg
+          url: /images/maria aveh.png
           altText: Maria Walters
           styles:
             self:
