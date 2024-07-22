@@ -83,10 +83,10 @@ sections:
               borderRadius: x-large
       - title: 'Precision Engineering, Delivered'
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          We translate your vision into reality. Experience TraverCon's
+          meticulous planning and flawless execution.
+
         image:
           url: /images/icon2.svg
           altText: Featured icon two
