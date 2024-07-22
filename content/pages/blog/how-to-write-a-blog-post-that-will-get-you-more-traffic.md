@@ -4,9 +4,12 @@ title: 'Building a Stronger Future, Together.'
 slug: how-to-write-a-blog-post-that-will-get-you-more-traffic
 date: '2023-01-18'
 excerpt: >-
-  Sit ratione eligendi et quis distinctio et maiores accusantium aut accusamus
-  facere sit repellat quidem qui alias nostrum et earum enim. Cum quis sint eos
-  dolor quas ad odit ipsum qui quia eius.
+  TraverCon is more than just a construction company. We're a team of passionate
+  professionals dedicated to transforming your vision into a reality. With a
+  commitment to quality, expertise, and collaboration, we build exceptional
+  structures that stand the test of time. We believe in building strong
+  partnerships with our clients, fostering open communication and exceeding
+  expectations throughout every step of the process.
 featuredImage:
   url: /images/abstract-feature2.svg
   altText: Thumbnail
