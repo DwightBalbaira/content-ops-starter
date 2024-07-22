@@ -7,6 +7,9 @@ sections:
       text: Building with Precision. Built to Last.
       color: text-dark
       type: TitleBlock
+      styles:
+        self:
+          fontWeight: 400
     subtitle: ''
     text: ''
     actions:
@@ -20,7 +23,7 @@ sections:
         elementId: ''
         type: Button
     media:
-      url: /images/main-hero.svg
+      url: /images/pexels-rezwan-1078884.jpg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
