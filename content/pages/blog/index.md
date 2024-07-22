@@ -122,7 +122,7 @@ topSections:
           textAlign: left
     items:
       - type: FeaturedItem
-        title: Faux Fur Throw
+        title: Commercial Construction
         subtitle: $ 88 – $ 176
         image:
           type: ImageBlock
