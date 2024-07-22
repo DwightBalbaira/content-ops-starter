@@ -10,7 +10,6 @@ sections:
       styles:
         self:
           fontWeight: 400
-          fontStyle: italic
     subtitle: ''
     text: ''
     actions:
