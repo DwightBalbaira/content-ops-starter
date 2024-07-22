@@ -31,7 +31,7 @@ topSections:
           url: /images/abstract-feature1.svg
           altText: Pricing plan 1
         actions: []
-        colors: bg-neutral-fg-dark
+        colors: bg-neutralAlt-fg-dark
         styles:
           self:
             padding:
