@@ -106,7 +106,7 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: From Blueprint to Brilliance
+      - title: From <br> Blueprint </br> to Brilliance
         subtitle: ''
         text: >+
           Your project, our expertise. TraverCon delivers exceptional results,
