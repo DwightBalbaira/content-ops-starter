@@ -16,7 +16,7 @@ topSections:
     plans:
       - type: PricingPlan
         title: Commercial Construction
-        price: Commercial Construction
+        price: ''
         details: Building workplaces that inspire and empower your business.
         description: >+
           TraverCon builds exceptional commercial spaces that cater to your
