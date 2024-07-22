@@ -17,7 +17,7 @@ topSections:
       - type: PricingPlan
         title: Commercial Construction
         price: Free
-        details: No credit card required
+        details: Building workplaces that inspire and empower your business.
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
