@@ -11,7 +11,7 @@ excerpt: >-
   partnerships with our clients, fostering open communication and exceeding
   expectations throughout every step of the process.
 featuredImage:
-  url: /images/abstract-feature2.svg
+  url: /images/pexels-rezwan-1116035.jpg
   altText: Thumbnail
   type: ImageBlock
   styles:
