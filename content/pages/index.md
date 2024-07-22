@@ -113,7 +113,7 @@ sections:
           on time and within budget.
 
         image:
-          url: /images/icon3.svg
+          url: /images/floor-plan.png
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
