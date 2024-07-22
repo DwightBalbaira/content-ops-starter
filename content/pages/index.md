@@ -419,11 +419,11 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Let's discuss your project
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+      Our team of experts is here to answer your questions and help you bring
+      your vision to life. Fill out the form below and we'll be in touch
+      shortly.
+
     media:
       fields:
         - name: name
