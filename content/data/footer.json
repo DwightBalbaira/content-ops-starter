@@ -28,14 +28,7 @@
         ],
         "type": "FooterLinksGroup"
     },
-    "socialLinks": [
-        {
-            "altText": "Email link",
-            "url": "/",
-            "icon": "mail",
-            "type": "Social"
-        }
-    ],
+    "socialLinks": [],
     "legalLinks": [],
     "copyrightText": "Copyright © 2024 | travercon.netlify.app\n",
     "colors": "bg-dark-fg-light",
