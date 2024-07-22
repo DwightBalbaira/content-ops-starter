@@ -206,7 +206,7 @@ sections:
       TraverCon and invest in a stronger future.
     badge:
       label: Key Benefits
-      color: text-primary
+      color: text-light
       styles:
         self:
           textAlign: center
