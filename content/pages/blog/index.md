@@ -78,7 +78,7 @@ topSections:
         actions: []
         colors: bg-light-fg-dark
       - type: FeaturedItem
-        title: Chunky Cotton Knit Throw
+        title: Sustainable Building
         subtitle: $117
         image:
           type: ImageBlock
