@@ -7,7 +7,7 @@ topSections:
   - type: PricingSection
     title:
       type: TitleBlock
-      text: Flexible Pricing
+      text: Services
       color: text-dark
       styles:
         self:
