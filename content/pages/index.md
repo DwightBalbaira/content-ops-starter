@@ -193,7 +193,7 @@ sections:
     type: ImageGallerySection
   - title:
       text: Build a Stronger Future with TraverCon
-      color: text-primary
+      color: text-light
       styles:
         self:
           textAlign: center
