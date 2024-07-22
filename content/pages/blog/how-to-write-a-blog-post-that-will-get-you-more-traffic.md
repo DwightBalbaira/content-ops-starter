@@ -59,6 +59,5 @@ colors: bg-light-fg-dark
 styles:
   self:
     flexDirection: row
-author: content/data/person4.json
 ---
 TraverCon is more than just a construction company. We're a team of passionate professionals dedicated to transforming your vision into a reality. With a commitment to quality, expertise, and collaboration, we build exceptional structures that stand the test of time. We believe in building strong partnerships with our clients, fostering open communication and exceeding expectations throughout every step of the process.
