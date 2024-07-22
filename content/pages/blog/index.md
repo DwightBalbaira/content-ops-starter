@@ -18,9 +18,13 @@ topSections:
         title: Commercial Construction
         price: Free
         details: Building workplaces that inspire and empower your business.
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: >+
+          TraverCon builds exceptional commercial spaces that cater to your
+          specific needs and brand identity.  Our expertise covers office
+          buildings, retail stores, restaurants, and more. We ensure a
+          functional, efficient, and aesthetically pleasing environment to
+          elevate your business operations.
+
         features:
           - Feature one
           - Feature two
