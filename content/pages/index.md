@@ -7,6 +7,9 @@ sections:
       text: Building with Precision. Built to Last.
       color: text-dark
       type: TitleBlock
+      styles:
+        self:
+          fontWeight: 400
     subtitle: ''
     text: ''
     actions:
