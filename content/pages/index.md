@@ -203,7 +203,7 @@ sections:
     type: DividerSection
   - title:
       text: Build a Stronger Future with TraverCon
-      color: text-dark
+      color: text-primary
       styles:
         self:
           textAlign: center
