@@ -8,7 +8,7 @@
     "socialLinks": [],
     "legalLinks": [],
     "copyrightText": "Copyright © 2024 | travercon.netlify.app\n",
-    "colors": "bg-neutral-fg-dark",
+    "colors": "bg-dark-fg-light",
     "type": "Footer",
     "primaryLinks": {
         "type": "FooterLinksGroup",
