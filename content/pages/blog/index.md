@@ -15,33 +15,6 @@ topSections:
     subtitle: Expert Construction Services Tailored to Your Needs
     plans:
       - type: PricingPlan
-        title: Commercial Construction
-        price: ''
-        details: ''
-        description: >+
-          TraverCon builds exceptional commercial spaces that cater to your
-          specific needs and brand identity.  Our expertise covers office
-          buildings, retail stores, restaurants, and more. We ensure a
-          functional, efficient, and aesthetically pleasing environment to
-          elevate your business operations.
-
-        features: []
-        image:
-          type: ImageBlock
-          url: /images/abstract-feature1.svg
-          altText: Pricing plan 1
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-6
-              - pb-10
-              - pl-6
-              - pr-6
-            borderRadius: large
-            borderWidth: 2
-      - type: PricingPlan
         title: Professional
         price: $99
         details: per month
