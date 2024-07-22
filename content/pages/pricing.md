@@ -31,7 +31,7 @@ sections:
           - pr-16
         justifyContent: center
 seo:
-  metaTitle: Pricing - Demo site
+  metaTitle: About Us
   metaDescription: This is the pricing page built with Netlify Create.
   socialImage: /images/main-hero.jpg
   type: Seo
