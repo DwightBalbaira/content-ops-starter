@@ -228,10 +228,16 @@ sections:
           left to add, but when there is nothing left to take away.”
         tagline: Testimonial 1
         subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          "We recently partnered with TraverCon to build our new headquarters,
+          and it was a fantastic experience. Their team was incredibly
+          professional, always keeping us informed throughout the process. The
+          quality of construction is exceptional, and we're thrilled with the
+          final result.  TraverCon truly helped us build a space that reflects
+          our company's vision and fosters a positive work environment. We
+          highly recommend them to anyone looking for a reliable and skilled
+          construction partner."
+
         image:
           type: ImageBlock
           url: /images/maria aveh.png
