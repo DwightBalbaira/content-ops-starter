@@ -39,7 +39,7 @@ topSections:
           elevate your business operations.
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/pexels-hikaique-65438.jpg
           altText: Faux Fur Throw
           elementId: ''
           styles:
