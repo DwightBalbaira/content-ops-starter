@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: kamusta
+      text: ito na nga
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
