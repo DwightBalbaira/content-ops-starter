@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: ito na nga
+      text: Building with Precision. Built to Last.
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
