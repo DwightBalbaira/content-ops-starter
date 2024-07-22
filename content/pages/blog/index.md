@@ -41,7 +41,10 @@ topSections:
           type: ImageBlock
           url: /images/pexels-hikaique-65438.jpg
           altText: Faux Fur Throw
-          elementId: ''
+          elementId: >-
+            .image-container {      overflow: hidden; /* This is important for
+            the clip effect */      width: 600px; /* Adjust width as needed
+            */      height: 300px; /* Adjust height as needed */    }
           styles:
             self:
               borderRadius: medium
