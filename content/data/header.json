@@ -33,13 +33,6 @@
             "type": "Link"
         },
         {
-            "label": "Contact Us",
-            "altText": "Contact Us",
-            "links": [],
-            "labelStyle": "secondary",
-            "type": "SubNav"
-        },
-        {
             "type": "Button",
             "label": "Get started",
             "altText": "",
