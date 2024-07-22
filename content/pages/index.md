@@ -242,7 +242,7 @@ sections:
           our company's vision and fosters a positive work environment. We
           highly recommend them to anyone looking for a reliable and skilled
           construction partner..”
-        tagline: Testimonial 1
+        tagline: ''
         subtitle: 'Maria Walters, Company'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
