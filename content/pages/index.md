@@ -13,7 +13,7 @@ sections:
     subtitle: ''
     text: ''
     actions:
-      - label: Get started
+      - label: Get a Free Project Consultation
         altText: ''
         url: /
         showIcon: false
