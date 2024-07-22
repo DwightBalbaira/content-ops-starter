@@ -129,6 +129,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
         type: FeaturedItem
+        elementId: From<br> Blueprint</br> to Brilliance
     actions:
       - label: Get started
         altText: ''
