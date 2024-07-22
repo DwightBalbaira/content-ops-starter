@@ -9,7 +9,8 @@
                 "borderWidth": 2
             }
         },
-        "type": "ImageBlock"
+        "type": "ImageBlock",
+        "url": "/images/TraverCon-02.png"
     },
     "primaryLinks": [
         {
