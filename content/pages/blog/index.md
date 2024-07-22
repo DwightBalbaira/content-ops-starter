@@ -60,7 +60,13 @@ topSections:
             justifyContent: center
       - type: FeaturedItem
         title: Residential Construction
-        subtitle: $ 44.99 – $ 90
+        subtitle: >-
+          TraverCon translates your dream home vision into reality.  We
+          specialize in new home construction, working closely with clients
+          throughout the design and building process.  Our team of experts
+          ensures exceptional quality, craftsmanship, and attention to detail,
+          creating a space that reflects your personality and provides lasting
+          comfort and enjoyment.
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg
